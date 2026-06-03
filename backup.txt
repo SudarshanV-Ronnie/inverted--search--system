@@ -1,0 +1,12 @@
+**
+#0;are;1;file1.txt;1;#
+#0;apple;1;file2.txt;2;#
+#1;ball;1;file2.txt;1;#
+#2;cat;1;file2.txt;1;#
+#3;dog;1;file2.txt;2;#
+#7;heelo;1;file1.txt;1;#
+#7;hoow;1;file1.txt;1;#
+#7;hii;1;file1.txt;1;#
+#12;mango;1;file2.txt;3;#
+#19;tree;1;file2.txt;1;#
+#24;you;1;file1.txt;1;#
